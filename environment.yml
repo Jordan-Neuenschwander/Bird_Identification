@@ -1,0 +1,4 @@
+name: Bird_Identification
+channels:
+  - defaults
+prefix: C:\Users\demon\anaconda3\envs\Bird_Identification
