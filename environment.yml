@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+  - tensorflow
   - jupyterlab
   - ipywidgets
   - tabulate
